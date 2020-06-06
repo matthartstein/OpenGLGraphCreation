@@ -1,0 +1,6 @@
+set_color 1.0 1.0 1.0
+draw_point 5 2 3
+draw_point 5 5 8
+draw_point 5 13 21
+draw_point 5 34 42
+draw_point 5 42 42
